@@ -40,3 +40,18 @@ a:hover{
     font-size: larger;
     font-style: oblique;
 }
+.content{
+    display: flex;
+    flex-direction: row;
+}
+.content > div{
+    background-color: lightgray;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 10px;
+}
+footer{
+    font-size: small;
+    text-align: center;
+    color: whitesmoke;
+}
