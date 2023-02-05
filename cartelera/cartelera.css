@@ -40,3 +40,8 @@ a:hover{
     font-size: larger;
     font-style: oblique;
 }
+footer{
+    font-size: small;
+    text-align: center;
+    color: whitesmoke;
+}
