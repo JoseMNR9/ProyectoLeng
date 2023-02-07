@@ -63,4 +63,34 @@ footer{
     -webkit-transform: translate(0px,5px);
     -moz-transform:translate(0px,5px);
 }
-              
+h2{
+    color: whitesmoke;
+    text-decoration: underline;
+}
+.sinopsis{
+    color: black;
+    background-color: lightgray;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 10px;
+} 
+.reparto{
+    color: black;
+    background-color: lightgray;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 10px;
+    width: 500px;
+}
+h5{
+    color: whitesmoke;
+}
+iframe{
+    height: 315px;
+    width: 500px;
+    margin-left: 100px;
+}  
+.floatr{
+    float: right;
+    margin-right: 100px;
+}      
