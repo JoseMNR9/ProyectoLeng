@@ -79,8 +79,3 @@ footer{
         88.8% {transform: skewX(-0.1953125deg) skewY(-0.1953125deg);}
     }
               
-@media print{
-    *{
-        font-family: 'Times New Roman', Times, serif;
-    }
-}

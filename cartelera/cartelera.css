@@ -46,11 +46,7 @@ footer{
     text-align: center;
     color: whitesmoke;
 }
-@media print{
-    *{
-        font-family: 'Times New Roman', Times, serif;
-    }
-}
+
 .carteles{
     display: grid;
     grid-template-columns: auto auto auto auto;
