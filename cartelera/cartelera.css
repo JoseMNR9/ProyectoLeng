@@ -55,7 +55,7 @@ footer{
 
               
 .float{
-    transition: .5s, color infinite;
+    transition: .5s, color ;
     -webkit-transition: .5s, color .10s;
     -moz-transition: .5s, color .10s;
 }
